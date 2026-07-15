@@ -1,0 +1,17 @@
+"ride_length_bucket","bucket_sort_order","member_casual","num_rides"
+< 10 min,1,casual,952363
+< 10 min,1,member,2202147
+"10 - 20 min",2,casual,613588
+"10 - 20 min",2,member,1073805
+"20 - 30 min",3,casual,245284
+"20 - 30 min",3,member,330527
+"30 - 40 min",4,casual,111788
+"30 - 40 min",4,member,119982
+"40 - 50 min",5,casual,60856
+"40 - 50 min",5,member,46559
+"50 - 60 min",6,casual,36511
+"50 - 60 min",6,member,16356
+"1-1.5 hr",7,casual,52894
+"1-1.5 hr",7,member,14015
+"1.5+ hr",8,casual,43350
+"1.5+ hr",8,member,12324
